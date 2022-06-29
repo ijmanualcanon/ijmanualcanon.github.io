@@ -14,7 +14,7 @@ With Canon Printers, you can print and scan any type of documents easily and in 
 
 ## What is best about ij.manual.canon Printers?
 
-1. Unlike other printers, **[ij.manual.canon](https://ijmanualcanon.github.io)**offers various ij scan utility tools to ease the customer experience using the Cannon multi-function printer.
+1. Unlike other printers, **[ij.manual.canon](https://ijmanualcanon.github.io)** offers various ij scan utility tools to ease the customer experience using the Cannon multi-function printer.
 2. Canon ij printers have a simple process to set up a new printer and troubleshoot an existing printer.
 3. Maintenance and cost per print are always economical with Canon printers, which was the main reason for thousands of customers to prefer ij.manual.canon.
 4. Canon offers two types of ink systems, ink cartridges and ink tanks. Users can choose the model according to the printing requirement.
